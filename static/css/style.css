@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: white;
+}
+
+header h1{
+    background-color: gray;
+    padding: 3%;
+}
+
+#mydiv form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form div{
+    padding: 2% 9%;
+}
+
